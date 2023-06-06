@@ -1,0 +1,25 @@
+    3  git init 
+    6  git branch -M main
+    7  git remote add origin https://github.com/lissque/20230605-LissetteQuebrada.git
+    8  git push -u origin main
+    9  git status 
+   11  git add .
+   12  git commit -m 'commit 01 de Lissette Quebrada'
+   13  git push origin main 
+   14  git branch
+   15  git status 
+   16  git checkout -b feature01
+   17  git add .
+   18  git commit -m 'commit 02 de Lissette Quebrada'
+   19  git push origin feature01 
+   20  git status 
+   21  git checkout -b feature02
+   22  git status 
+   23  git add .
+   24  git commit -m 'commit 03 de Lissette Quebrada'
+   25  git push origin feature02 
+   26  git chechout main 
+   27  git checkout main 
+   28  git pull
+   29  mv comandos.txt comandosUtlizados.txt
+   30  history > comandosUtilizados.txt
