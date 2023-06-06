@@ -1,0 +1,3 @@
+placa madre
+memoria ram 
+CPU y GPU

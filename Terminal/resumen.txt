@@ -1,0 +1,5 @@
+rm /para eliminar 
+mv /mover un archivo de un lugar a otro 
+ls /listar 
+cp /copiar archivos 
+cd /moverme entre ficheros
